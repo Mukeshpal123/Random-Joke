@@ -14,7 +14,7 @@ The random-joke project is a Spring Boot application that provides a RESTful API
 <br>
 
 ## Framework Used
-* Spring Boot
+* Spring Boot 
 
 ---
 <br>
